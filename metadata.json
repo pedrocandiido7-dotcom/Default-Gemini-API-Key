@@ -2,5 +2,5 @@
   "name": "DamageScan Auto",
   "description": "Aplicativo de laudo cautelar automotivo com IA para identificação de danos, peças não originais e geração de relatórios detalhados.",
   "requestFramePermissions": ["camera"],
-  "majorCapabilities": []
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
